@@ -1,1 +1,1 @@
-# Demo-Game-Survival-Horror
+This is a repository for another fps survival horror game I worked on during my time with a company. The sample contains scripts for Random Mesh Walking for the enemies, the starting stages of the Game Manager, a simple camera controller and enemy movement and controller.
